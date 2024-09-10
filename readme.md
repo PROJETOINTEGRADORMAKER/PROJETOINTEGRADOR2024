@@ -1,6 +1,20 @@
 # Sumário
 - [Modelagem de um sistema para gestão de dados de uma universidade](#modelagem-de-um-sistema-para-gest%C3%A3o-de-dados-de-uma-universidade)
-  
+    - [Casos de uso](#casos-de-uso)
+        - [Precondição](#precondi%C3%A7%C3%A3o)
+        - [Pós condição](#p%C3%B3s-condi%C3%A7%C3%A3o)
+	- [UML: Diagrama de classes](#uml-diagrama-de-classes)
+ 	- [Interfaces de usuário (IU)](#interfaces-de-usu%C3%A1rio-iu)
+        - [Interface: tela inicial](#interface-tela-inicial)
+        - [Interface: cadastro de fornecedores](#interface-cadastro-de-fornecedores)
+        	- [Interface: vinculo (associação) de produtos ao fornecedor](#interface-vinculo-associa%C3%A7%C3%A3o-de-produtos-ao-fornecedor)
+        - [Interface: cadastro de produtos](#interface-cadastro-de-produtos)
+        - [Interface: cadastro de alunos](#interface-cadastro-de-alunos)
+        - [Interface: cadastro de cursos](#interface-cadastro-de-cursos)
+        - [Interface: cadastro de disciplinas](#interface-cadastro-de-disciplinas)
+        - [Interface: cadastro de professores](#interface-cadastro-de-professores)
+        - [Interface: cadastro de usuários](#interface-cadastro-de-usu%C3%A1rios)
+   
 # Modelagem de um sistema para gestão de dados de uma universidade
 
 A presente documentação aborda desde a modelagem até a prototipação de interfaces de um sistema básico de cadastros no contexto de universidade qualquer. A proposta é que sistema contemple cadastro de informaõçes básicas, sendo esses: cadastro de pessoas físicas e juríficas, professores, fornecedores e alunos.
@@ -49,7 +63,7 @@ Essa interface seria acionada por meio do botão "Vincular produtos" disponível
 
 ![d4f1c88775f86830d1a4febdc57d6371.png](_resources/d4f1c88775f86830d1a4febdc57d6371.png)
 
-### Interface: cadastro de curso
+### Interface: cadastro de cursos
 
 ![4840249b89c8038a5cb3356889db61af.png](_resources/4840249b89c8038a5cb3356889db61af.png)
 
