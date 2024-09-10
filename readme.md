@@ -1,5 +1,6 @@
-${toc}
-
+# Sumário
+- [Modelagem de um sistema para gestão de dados de uma universidade](#modelagem-de-um-sistema-para-gestão-de-dados-de uma-universidade)
+  
 # Modelagem de um sistema para gestão de dados de uma universidade
 
 A presente documentação aborda desde a modelagem até a prototipação de interfaces de um sistema básico de cadastros no contexto de universidade qualquer. A proposta é que sistema contemple cadastro de informaõçes básicas, sendo esses: cadastro de pessoas físicas e juríficas, professores, fornecedores e alunos.
